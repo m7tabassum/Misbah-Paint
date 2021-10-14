@@ -1,0 +1,15 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("http://www.flipbuilder.com/templates-themes/img/theme/spread_gentle.jpg");
+	background-position: center;
+	background-size:cover;
+}
+
+#myCanvas{
+
+}
